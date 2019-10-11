@@ -2,7 +2,7 @@
 
 - Leonardo Colman Lopes
 - Rafael Galrão Silveira
-- Caio Rodrigues Gome
+- Caio Rodrigues Gomes
 - Isabelle Neves Porto
 - Fernando José
 - Matheus Barbosa
