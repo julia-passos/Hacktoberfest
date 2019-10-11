@@ -1,4 +1,8 @@
 ## Lista de participantes
 
 - Leonardo Colman Lopes
-- Fernando José
+- Fernando Jos
+- Matheus Barbosa
+- Stefany Ramos Ramsdorf Nohama
+- Felipe Voigtlaender Furquim
+- Daniel Feitosa dos Santos
