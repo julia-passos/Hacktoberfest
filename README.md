@@ -1,6 +1,7 @@
 ## Lista de participantes
 
 - Leonardo Colman Lopes
+- Rafael Galrão Silveira
 - Caio Rodrigues Gome
 - Isabelle Neves Port
 - Fernando Jos
