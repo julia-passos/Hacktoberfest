@@ -3,8 +3,8 @@
 - Leonardo Colman Lopes
 - Rafael Galrão Silveira
 - Caio Rodrigues Gome
-- Isabelle Neves Port
-- Fernando Jos
+- Isabelle Neves Porto
+- Fernando José
 - Matheus Barbosa
 - Stefany Ramos Ramsdorf Nohama
 - Felipe Voigtlaender Furquim
