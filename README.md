@@ -10,3 +10,4 @@
 - Felipe Voigtlaender Furquim
 - Daniel Feitosa dos Santos
 - Gabriel Afonso Carnaiba Silva
+- Ricardo Praxedes 
