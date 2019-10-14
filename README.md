@@ -1,6 +1,7 @@
 ## Lista de participantes
 
 - Leonardo Colman Lopes
+-Enrique Sebastian Lee Kim
 - Rafael Galrão Silveira
 - Caio Rodrigues Gomes
 - Isabelle Neves Porto
