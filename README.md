@@ -11,5 +11,6 @@
 - Felipe Voigtlaender Furquim
 - Daniel Feitosa dos Santos
 - Gabriel Afonso Carnaiba Silva
-- Ricardo Praxedes
+- Ricardo Praxedes 
+- André Biondi Casaes
 - Felipe Ribeiro de Campos Marques
