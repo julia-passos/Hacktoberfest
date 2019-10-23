@@ -14,3 +14,4 @@
 - Ricardo Praxedes 
 - André Biondi Casaes
 - Felipe Ribeiro de Campos Marques
+- Júlia Cristina de Brito Passos
